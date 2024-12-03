@@ -7,7 +7,7 @@ package csci1010.arrayoftemperatures;
 import java.util.Scanner;
 
 /**
- *
+ *  testGithub
  * @author Matt Hammond
  */
 public class ArrayOfTemperatures {
